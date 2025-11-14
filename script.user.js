@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Cam ARNA
 // @namespace    http://tampermonkey.net/
-// @version      1.0R
+// @version      1.0 Release
 // @description  Modern Dark UI for Stripchat and Chaturbate with Glassmorphism Design, Real Favicons, Export/Import, Low Power Mode and Page Preloading
 // @author       user006-ui
 // @match        https://*.stripchat.com/*
